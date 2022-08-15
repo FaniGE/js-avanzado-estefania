@@ -1,0 +1,13 @@
+{
+  "name": "es6-import-export",
+  "version": "1.0.0",
+  "description": "mi descripción\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b\u001b[C\u001b[Cd\u001b[C\u001b[C\u001b[D\u001b[De\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D descripción",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": "fanige",
+  "license": "ISC"
+}
