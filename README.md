@@ -1,4 +1,3 @@
-Hola
 # JavaScript Avanzado
 
 ## Table of Contents
@@ -25,11 +24,11 @@ Node es un entorno multiplataforma para ejecutar JavaScript fuera del navegador,
 
 #### **Instalación**
 
-**Versiones válidas:** 12.x.x, 14.x.x y 16.x.x
-
 [Descargar LTS](https://nodejs.org/es/download/)
 node -v
 npm -v
+
+**Versiones válidas:** 12.x.x, 14.x.x y 16.x.x
 
 #### **Que se puede hacer con node**
 
@@ -38,6 +37,8 @@ npm -v
 - Generar páginas dinámicas en un servidor web. => server side render
 - Crear, leer y escribir archivos.
 - Procesar y almacenar archivos enviados desde una página web.
+
+**Elementos de node**
 
 Dentro de node se utilizan los módulos y las callbacks.
 
@@ -69,7 +70,6 @@ Dentro de node se utilizan los módulos y las callbacks.
   * fs.
   * global.
   * path.
-
 
 **Modelo cliente servidor**
 
@@ -728,6 +728,13 @@ Big Data es un término que describe el gran volumen de datos, tanto estructurad
 * [Coder Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner).
 * [Office Viewer(Markdown Editor)](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office).
 * [Aprende Node.js y Express - Curso desde Cero](https://www.youtube.com/watch?v=1hpc70_OoAg).
+* Documentación Ofline.
+  * [Zeal (Windows)](https://zealdocs.org/download.html).
+  * [Zeal (Linux)](https://zealdocs.org/download.html#linux).
+  * [Dash (MacOS)](https://kapeli.com/dash).
+* [Node.js para backend (en)](https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-backend).
+* [Mintlify Doc Writer](https://marketplace.visualstudio.com/items?itemName=mintlify.document).
+* [Metodo patito de goma](https://www.thebrain.school/metodo-patito-goma/#:~:text=Este%20m%C3%A9todo%2C%20incluso%20con%20entrada,pasaba%20inadvertido%20a%20sus%20ojos.).
 
 ### Glosario
 
@@ -745,3 +752,4 @@ Big Data es un término que describe el gran volumen de datos, tanto estructurad
 - **Buena práctica:** Es un actividad que se ha demostrado que funciona bien y produce buenos resultados, y, por lo tanto, se recomienda como modelo.
 - **Path:** Es una ruta o dirección donde se encuentra alojado un recurso en un sistema de archivos. Existen rutas relativas como ../../my-docs o absolutas como C:\users\juan\Documents\tarea\tesis.doc
 - **Puerto:** un lugar donde se abre una conexion para acceder a un servicio.
+- **Dummy:** Es un dato o elemento de prueba, sirve para simular datos.
